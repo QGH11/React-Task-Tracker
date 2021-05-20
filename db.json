@@ -5,6 +5,12 @@
       "day": "1212",
       "reminder": false,
       "id": 1
+    },
+    {
+      "text": "1212",
+      "day": "1212",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
