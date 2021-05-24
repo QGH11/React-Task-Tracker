@@ -11,6 +11,18 @@
       "day": "1212",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "task1 with reminder",
+      "day": "2021",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "task2 no reminder",
+      "day": "2021",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
