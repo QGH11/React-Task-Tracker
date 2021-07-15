@@ -6,3 +6,4 @@ Function: adding and deleting tasks, front and backend management, custome css s
   (more description in About.js or click about-link in the app)
 
 **build needed to run the project
+**Use Visual Studio Code
